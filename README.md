@@ -3,19 +3,19 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m a data science student at Scool of Information Sciences - [ESI](http://esi.ac.ma/)
+- 🔭 &nbsp; I’m a data science student at [Scool of Information Sciences](http://esi.ac.ma/)
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
+- 🎓 &nbsp; Studying Data Science, BI and Web develepment.
 - 💼 &nbsp; Android developer and front-end web developer.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
+- 🌱 &nbsp; Enthusiast in Maching Learning and Artificial Intelligence .
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | JEE| PHP   
+- 💻 &nbsp; Python | Java | JEE | PHP   
 - 🌐 &nbsp; Django | Flask | HTML | CSS | JavaScript| ReactJs | Bootstrap 
-- 🛢 &nbsp; MySQL | PostgreSQL | SQLite | Oracle
+- 🛢 &nbsp; MySQL | PostgreSQL | SQLite | DB2 | Oracle
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Spring | Git
 - 🖥 &nbsp; Adobe Premire Pro | Illustrator 
 
