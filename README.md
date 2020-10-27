@@ -34,6 +34,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zekaouinoureddine&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/zekaouinoureddine/github-readme-stats)
 
+<img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/git.png?raw=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=saviomartin&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
 
 <h3> 🤝🏻 Connect with Me </h3>
 
