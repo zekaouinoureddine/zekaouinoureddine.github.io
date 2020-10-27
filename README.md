@@ -18,7 +18,7 @@
 - 🌐 &nbsp; Django | Flask | Plotly Dash | HTML | CSS | JavaScript| ReactJs | Bootstrap 
 - 🛢 &nbsp; MySQL | PostgreSQL | SQLite | DB2 | Oracle
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Spring | Git
-- 🖥 &nbsp; Adobe Premire Pro | Illustrator 
+- 🖥 &nbsp; Adobe Premiere Pro | Illustrator 
 
 <h3>🛠 Areas of expertise </h3>
 
