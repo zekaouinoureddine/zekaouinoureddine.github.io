@@ -5,7 +5,7 @@
 
 - 🔭 &nbsp; I’m a data science student at [School of Information Sciences](http://esi.ac.ma/).
 - 🤔 &nbsp; Last month I was in an internship as a data scientist at the [Scientific Institute](http://www.israbat.ac.ma/), where I designed, built and deployed a solution for automated plant identification by Deep Learning TensorFlow/Keras. The solution built is deployed using the Django framework in python.
-- 🎓 &nbsp; Studying Data Science, Data Analysis, BI and Web develepment.
+- 🎓 &nbsp; Studying Data Science, Data Analysis, BI and Web development.
 - 💼 &nbsp; Currently, I'm adding my projects in my GitHub.
 - 🌱 &nbsp; Enthusiast in Maching Learning and Artificial Intelligence .
 - ✍️ &nbsp; Reading Medium articles and trying out latest technologies trends in AI.
