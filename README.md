@@ -8,7 +8,7 @@
 - 🎓 &nbsp; Studying Data Science, Data Analysis, BI and Web develepment.
 - 💼 &nbsp; Currently, I'm adding my projects in my GitHub.
 - 🌱 &nbsp; Enthusiast in Maching Learning and Artificial Intelligence .
-- ✍️ &nbsp; Reading Meduim articles and trying out latest technologies trends in AI.
+- ✍️ &nbsp; Reading Medium articles and trying out latest technologies trends in AI.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.
 - ☕ &nbsp; One more thing; Never stop studing because life never stops teaching
 
