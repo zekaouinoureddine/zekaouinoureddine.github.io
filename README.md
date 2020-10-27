@@ -14,7 +14,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | JEE | PHP | R | MATLAB
+- 💻 &nbsp; Python | Java | JEE | PHP | R | MATLAB | SQL |PL/SQL
 - 🌐 &nbsp; Django | Flask | Plotly Dash | HTML | CSS | JavaScript| ReactJs | Bootstrap 
 - 🛢 &nbsp; MySQL | PostgreSQL | SQLite | DB2 | Oracle
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Spring | Git
@@ -22,9 +22,9 @@
 
 <h3>🛠 Areas of expertise </h3>
 
-- Maching Learning (Scikit-learn), Deep Learning (tensorflow/keras), Image Processing
-- Artificial Intelligence, Business Intelligence (Data warhouse, Power BI), Knowledge Management
-- Applied Statistics and maths
+- &nbsp; Maching Learning (Scikit-learn), Deep Learning (tensorflow/keras), Image Processing
+- &nbsp; Artificial Intelligence, Business Intelligence (data warehouse, Power BI), Knowledge Management
+- &nbsp; Applied Statistics and maths
 
 <br>
 
