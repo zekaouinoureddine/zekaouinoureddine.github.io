@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m a data science student at [Scool of Information Sciences](http://esi.ac.ma/).
+- 🔭 &nbsp; I’m a data science student at [School of Information Sciences](http://esi.ac.ma/).
 - 🤔 &nbsp; Last month I was in an internship as a data scientist at the [Scientific Institute](http://www.israbat.ac.ma/), where I designed, built and deployed a solution for automated plant identification by Deep Learning TensorFlow/Keras. The solution built is deployed using the Django framework in python.
 - 🎓 &nbsp; Studying Data Science, Data Analysis, BI and Web develepment.
 - 💼 &nbsp; Currently, I'm adding my projects in my GitHub.
@@ -14,14 +14,14 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | JEE | PHP | R
+- 💻 &nbsp; Python | Java | JEE | PHP | R | MATLAB
 - 🌐 &nbsp; Django | Flask | Plotly Dash | HTML | CSS | JavaScript| ReactJs | Bootstrap 
 - 🛢 &nbsp; MySQL | PostgreSQL | SQLite | DB2 | Oracle
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Spring | Git
 - 🖥 &nbsp; Adobe Premire Pro | Illustrator 
 
 <h3>🛠 Areas of expertise </h3>
-- Maching Learning (Scikit-learn), Deep Learning (tensorflow/keras)
+- Maching Learning (Scikit-learn), Deep Learning (tensorflow/keras), Image Processing
 - Artificial Intelligence, Business Intelligence (Data warhouse, Power BI), Knowledge Management
 - Applied Statistics and maths
 
