@@ -10,7 +10,7 @@
 - 🌱 &nbsp; Enthusiast in Maching Learning and Artificial Intelligence .
 - ✍️ &nbsp; Reading Medium articles and trying out latest technologies trends in AI.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.
-- ☕ &nbsp; One more thing; Never stop studing because life never stops teaching
+- ⏳ &nbsp; One more thing; Never stop studing because life never stops teaching
 
 <h3>🛠 Tech Stack</h3>
 
@@ -22,9 +22,9 @@
 
 <h3>🛠 Areas of expertise </h3>
 
-- &nbsp; Maching Learning (Scikit-learn), Deep Learning (tensorflow/keras), Image Processing
-- &nbsp; Artificial Intelligence, Business Intelligence (data warehouse, Power BI), Knowledge Management
-- &nbsp; Applied Statistics and maths
+- 🎯 &nbsp; Maching Learning (Scikit-learn), Deep Learning (tensorflow/keras), Image Processing
+- 📈 &nbsp; Artificial Intelligence, Business Intelligence (data warehouse, Power BI), Knowledge Management
+- 🎰 &nbsp; Applied Statistics and mathematics 
 
 <br>
 
