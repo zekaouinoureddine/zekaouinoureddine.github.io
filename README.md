@@ -23,7 +23,8 @@
 <h3>🛠 Areas of expertise </h3>
 
 - 🎯 &nbsp; Maching Learning (Scikit-learn), Deep Learning (tensorflow/keras), Image Processing
-- 📈 &nbsp; Artificial Intelligence, Business Intelligence (data warehouse, Power BI), Knowledge Management
+- 🛰️ &nbsp; Artificial Intelligence, Business Intelligence (data warehouse, Power BI), Knowledge Management 
+- 📈 &nbsp; Data visuialization and information mapping 
 - 🎰 &nbsp; Applied Statistics and mathematics 
 
 <br>
