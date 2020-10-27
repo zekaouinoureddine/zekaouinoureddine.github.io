@@ -14,7 +14,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | JEE | PHP | R | MATLAB | SQL |PL/SQL
+- 💻 &nbsp; Python | Java | JEE | PHP | R | MATLAB | SQL | PL/SQL
 - 🌐 &nbsp; Django | Flask | Plotly Dash | HTML | CSS | JavaScript| ReactJs | Bootstrap 
 - 🛢 &nbsp; MySQL | PostgreSQL | SQLite | DB2 | Oracle
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Spring | Git
