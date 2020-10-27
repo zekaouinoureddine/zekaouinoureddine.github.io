@@ -21,6 +21,7 @@
 - 🖥 &nbsp; Adobe Premire Pro | Illustrator 
 
 <h3>🛠 Areas of expertise </h3>
+
 - Maching Learning (Scikit-learn), Deep Learning (tensorflow/keras), Image Processing
 - Artificial Intelligence, Business Intelligence (Data warhouse, Power BI), Knowledge Management
 - Applied Statistics and maths
