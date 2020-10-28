@@ -15,16 +15,17 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Java | JEE | PHP | R | MATLAB | SQL | PL/SQL
-- 🌐 &nbsp; Django | Flask | Plotly Dash | HTML | CSS | JavaScript| ReactJs | Bootstrap 
+- 🌐 &nbsp; Django | Flask | Dash | HTML | CSS | JavaScript| ReactJs | Bootstrap 
 - 🛢 &nbsp; MySQL | PostgreSQL | SQLite | DB2 | Oracle
+- 🎰 &nbsp; cloud computing (AWS)
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Spring | Git
 - 🖥 &nbsp; Adobe Premiere Pro | Illustrator 
 
 <h3>🛠 Areas of expertise </h3>
 
 - 🎯 &nbsp; Maching Learning (Scikit-learn), Deep Learning (tensorflow/keras), Image Processing
-- 🛰️ &nbsp; Artificial Intelligence, Business Intelligence (data warehouse, Power BI), Knowledge Management 
-- 📈 &nbsp; Data visuialization and information mapping 
+- 🛰️ &nbsp; Big data (Hadoop), Artificial Intelligence, Business Intelligence (data warehouse, Power BI), Knowledge Management 
+- 📈 &nbsp; Data visuialization and information mapping (Python| R | Gephi)
 - 🎰 &nbsp; Applied Statistics and mathematics 
 
 <br>
