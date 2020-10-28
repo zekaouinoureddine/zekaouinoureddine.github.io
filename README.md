@@ -17,7 +17,7 @@
 - 💻 &nbsp; Python | Java | JEE | PHP | R | MATLAB | SQL | PL/SQL
 - 🌐 &nbsp; Django | Flask | Dash | HTML | CSS | JavaScript| ReactJs | Bootstrap 
 - 🛢 &nbsp; MySQL | PostgreSQL | SQLite | DB2 | Oracle
-- 🎰 &nbsp; cloud computing (AWS)
+- 🎰 &nbsp; Cloud computing (AWS)
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Spring | Git
 - 🖥 &nbsp; Adobe Premiere Pro | Illustrator 
 
