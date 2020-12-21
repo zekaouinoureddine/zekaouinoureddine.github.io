@@ -17,14 +17,14 @@
 - 💻 &nbsp; Python | SQL | Java | JEE | PHP | R | Matlab | PL/SQL
 - 🌐 &nbsp; Django | Flask | Dash | HTML | CSS | JavaScript| ReactJs | Bootstrap 
 - 🛢 &nbsp; MySQL | PostgreSQL | SQLServer | SQLite | DB2 | Oracle
-- 🎰 &nbsp; Cloud computing (AWS Azur)
+- 🎰 &nbsp; Cloud computing (Microsoft Azur)
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Spring | Git
 - 🖥 &nbsp; Adobe Premiere Pro | Illustrator 
 - 🧲 &nbsp; ETL : Talend | Pentaho
 <h3>🛠 Areas of expertise </h3>
 
 - 🎯 &nbsp; Maching Learning (Scikit-learn), Deep Learning (tensorflow/keras), Image Processing
-- 🛰️ &nbsp; Big data (Hadoop), Artificial Intelligence, Business Intelligence (data warehouse, Power BI), Knowledge Management 
+- 🛰️ &nbsp; Big data (Hadoop | Spark), Artificial Intelligence, Business Intelligence (data warehouse, Power BI), Knowledge Management 
 - 📈 &nbsp; Data visuialization and information mapping (Python| R | Power BI | Tableau Software | Gephi )
 - 🎰 &nbsp; Applied Statistics and mathematics 
 
