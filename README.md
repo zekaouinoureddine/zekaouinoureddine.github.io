@@ -46,5 +46,3 @@
 </p>
 
 ⭐️ From [Nour Eddine ZEKAOUI](https://github.com/zekaouinoureddine) 
-
-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
